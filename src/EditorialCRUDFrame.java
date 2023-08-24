@@ -14,7 +14,7 @@ public class EditorialCRUDFrame extends JFrame {
     public EditorialCRUDFrame() {
         editorialDAO = new EditorialDAO();
 
-        setTitle("Editorial CRUD");
+        setTitle("Editorial CRUD (C)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(400, 250);
         setLocationRelativeTo(null);

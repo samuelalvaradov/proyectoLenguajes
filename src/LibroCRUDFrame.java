@@ -14,7 +14,7 @@ public class LibroCRUDFrame extends JFrame {
     public LibroCRUDFrame() {
         libroDAO = new LibroDAO();
 
-        setTitle("Libro CRUD");
+        setTitle("Libro CRUD (B)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(400, 250);
         setLocationRelativeTo(null);
