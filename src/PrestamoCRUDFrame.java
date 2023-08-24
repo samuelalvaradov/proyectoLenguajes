@@ -15,7 +15,7 @@ public class PrestamoCRUDFrame extends JFrame {
     public PrestamoCRUDFrame() {
         prestamoDAO = new PrestamoDAO();
 
-        setTitle("Préstamo CRUD");
+        setTitle("Préstamo CRUD (C)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(400, 250);
         setLocationRelativeTo(null);

@@ -5,7 +5,7 @@ import java.sql.SQLException;
 
 public class DatabaseUtil {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/BibliotecaEditorial";
+    private static final String URL = "jdbc:oracle:thin:@localhost:1521:orcl";
     private static final String USER = "EFINAL";
     private static final String PASSWORD = "12345";
 

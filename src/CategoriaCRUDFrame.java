@@ -11,7 +11,7 @@ public class CategoriaCRUDFrame extends JFrame {
     public CategoriaCRUDFrame() {
         categoriaDAO = new CategoriaDAO();
 
-        setTitle("Categoría CRUD");
+        setTitle("Categoría CRUD (A)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(300, 150);
         setLocationRelativeTo(null);

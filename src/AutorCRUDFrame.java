@@ -12,7 +12,7 @@ public class AutorCRUDFrame extends JFrame {
     public AutorCRUDFrame() {
         autorDAO = new AutorDAO();
 
-        setTitle("Autor CRUD");
+        setTitle("Autor CRUD (A)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(300, 200);
         setLocationRelativeTo(null);

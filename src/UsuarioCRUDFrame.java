@@ -13,7 +13,7 @@ public class UsuarioCRUDFrame extends JFrame {
     public UsuarioCRUDFrame() {
         usuarioDAO = new UsuarioDAO();
 
-        setTitle("Usuario CRUD");
+        setTitle("Usuario CRUD (A)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(300, 200);
         setLocationRelativeTo(null);
